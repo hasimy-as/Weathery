@@ -3,10 +3,12 @@ Check the temperature and weather of a city, with Node.js and OpenWeather API.
 
 # OpenWeatherMap API
 
-You need to have an OpenWeather account. Follow the instructions below to get one.
+You need to have an OpenWeather account, which you can get one [here](https://openweathermap.org/users/sign_up) 
+
+Then, follow the instructions below to get your API key.
 
 ```sh
-First, register [here](https://openweathermap.org/users/sign_up)
+First, open the OpenWeatherMap dashboard. 
 
 Second, go to the API keys segment in the dashboard.
 
