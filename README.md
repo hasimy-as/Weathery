@@ -12,9 +12,8 @@ Second, go to the API keys segment in the dashboard.
 
 Third, you can use the generated key situated like below.
 
-![API Key](docs/img/api.png)
-
 ```
+![API Key](docs/img/api.png)
 
 # Usage
 
